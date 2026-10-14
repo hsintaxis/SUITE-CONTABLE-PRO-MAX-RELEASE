@@ -1,9 +1,9 @@
 {
   "schema": 1,
   "product_code": "SUITE_CONTABLE_PRO_MAX",
-  "version": "2.0.2",
+  "version": "2.0.4",
   "release_date": "2026-10-14",
-  "notes": "Actualización 2.0.2 de Suite Contable Pro Max. Conserva datos y licencias del cliente.",
-  "download_url": "https://github.com/hsintaxis/suite-contable-pro-max-release/releases/download/v2.0.2/SuiteContableProMax_Portable_2.0.2.zip",
-  "sha256": "6fb61d122a64e7912600cf0b46dfa202d33f0209c4d63524af58eea04a463dc9"
+  "notes": "Actualización 2.0.4 de Suite Contable Pro Max. Conserva datos y licencias del cliente.",
+  "download_url": "https://github.com/hsintaxis/suite-contable-pro-max-release/releases/download/2.0.4/SuiteContableProMax_Portable_2.0.4.zip",
+  "sha256": "aa40f288bfad1a7897b66e801445f59095149616ebfa70bb279be18eaa395efd"
 }
