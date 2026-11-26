@@ -1,9 +1,9 @@
 {
   "schema": 1,
   "product_code": "SUITE_CONTABLE_PRO_MAX",
-  "version": "2.0.41",
-  "release_date": "2026-11-19",
-  "notes": "Actualización 2.0.41 de Suite Contable Pro Max. Conserva datos y licencias del cliente.",
-  "download_url": "https://github.com/hsintaxis/suite-contable-pro-max-release/releases/download/2.0.41/SuiteContableProMax_Portable_2.0.41.zip",
-  "sha256": "884567e7d13b660efa2db1c8c97a9fdca0cd94de89d41893192bd250266f0fab"
+  "version": "2.0.42",
+  "release_date": "2026-11-26",
+  "notes": "Actualización 2.0.42: el INC bolsas se registra una sola vez en la cuenta elegida (SIIGO, Siesa, Contai y Aliaddo); Siesa admite consecutivos de más de 8 dígitos; se limpia la memoria temporal al actualizar. Conserva datos y licencias del cliente.",
+  "download_url": "https://github.com/hsintaxis/suite-contable-pro-max-release/releases/download/2.0.42/SuiteContableProMax_Portable_2.0.42.zip",
+  "sha256": "3a8d8a9191e91f6da57f43aa76361cab10bad98da88c0d6900962476fb861382"
 }
