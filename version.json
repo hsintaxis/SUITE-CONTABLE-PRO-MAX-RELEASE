@@ -1,9 +1,9 @@
 {
   "schema": 1,
   "product_code": "SUITE_CONTABLE_PRO_MAX",
-  "version": "2.0.44",
+  "version": "2.0.45",
   "release_date": "2026-11-26",
-  "notes": "Actualización 2.0.44: el centro de costo de la regla de la empresa aparece solo en la línea al poner la cuenta, y en la bolsa o IVA llevados al gasto dentro de Revisar impuestos; la regla se reconoce aunque el perfil de la empresa esté escrito distinto. Conserva datos y licencias del cliente.",
-  "download_url": "https://github.com/hsintaxis/suite-contable-pro-max-release/releases/download/2.0.44/SuiteContableProMax_Portable_2.0.44.zip",
-  "sha256": "716c5ba3443c33446e2428e440e605485c0f8e0f3ba1e7baf441f81971d004d7"
+  "notes": "Actualización 2.0.45: el IVA en cuentas de gasto lleva su centro de costo; Siesa permite indicar la sucursal del proveedor (general y por proveedor); los símbolos dañados en descripciones ya no bloquean los archivos de Siesa y Contai. Conserva datos y licencias del cliente.",
+  "download_url": "https://github.com/hsintaxis/suite-contable-pro-max-release/releases/download/2.0.45/SuiteContableProMax_Portable_2.0.45.zip",
+  "sha256": "4104bfcd9f97f1d5ca2fe61fdf101029b5f25b0f561587a93d1b2f1837e829e6"
 }
