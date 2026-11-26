@@ -1,9 +1,9 @@
 {
   "schema": 1,
   "product_code": "SUITE_CONTABLE_PRO_MAX",
-  "version": "2.0.42",
+  "version": "2.0.43",
   "release_date": "2026-11-26",
-  "notes": "Actualización 2.0.42: el INC bolsas se registra una sola vez en la cuenta elegida (SIIGO, Siesa, Contai y Aliaddo); Siesa admite consecutivos de más de 8 dígitos; se limpia la memoria temporal al actualizar. Conserva datos y licencias del cliente.",
-  "download_url": "https://github.com/hsintaxis/suite-contable-pro-max-release/releases/download/2.0.42/SuiteContableProMax_Portable_2.0.42.zip",
-  "sha256": "3a8d8a9191e91f6da57f43aa76361cab10bad98da88c0d6900962476fb861382"
+  "notes": "Actualización 2.0.43: centro de costo e IVA mayor valor independientes por línea; regla opcional de centro de costo automático por empresa, también para IVA y bolsa en gasto; Siesa en pesos enteros; varios centros de costo por factura. Conserva datos y licencias del cliente.",
+  "download_url": "https://github.com/hsintaxis/suite-contable-pro-max-release/releases/download/2.0.43/SuiteContableProMax_Portable_2.0.43.zip",
+  "sha256": "5648c33c7fffeb1da7b413aace145bd523ad93069d7fb6575845a9303670bf52"
 }
