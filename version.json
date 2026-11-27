@@ -1,9 +1,9 @@
 {
   "schema": 1,
   "product_code": "SUITE_CONTABLE_PRO_MAX",
-  "version": "2.0.45",
-  "release_date": "2026-11-26",
-  "notes": "Actualización 2.0.45: el IVA en cuentas de gasto lleva su centro de costo; Siesa permite indicar la sucursal del proveedor (general y por proveedor); los símbolos dañados en descripciones ya no bloquean los archivos de Siesa y Contai. Conserva datos y licencias del cliente.",
-  "download_url": "https://github.com/hsintaxis/suite-contable-pro-max-release/releases/download/2.0.45/SuiteContableProMax_Portable_2.0.45.zip",
-  "sha256": "4104bfcd9f97f1d5ca2fe61fdf101029b5f25b0f561587a93d1b2f1837e829e6"
+  "version": "2.0.46",
+  "release_date": "2026-11-27",
+  "notes": "Aprendizaje: World Office ahora aprende y predice; proveedores que siempre se causan igual salen completos; la historia de la empresa completa cuenta por pagar e IVA; se recupera lo aprendido antes del 3 de noviembre; si cambias algo aprendido, se te pregunta si queda la regla nueva o la anterior.",
+  "download_url": "https://github.com/hsintaxis/suite-contable-pro-max-release/releases/download/2.0.46/SuiteContableProMax_Portable_2.0.46.zip",
+  "sha256": "6254dd57cb9ea187d4622c40b17c08daab483212a8dd813ef04d807b0dc9dc8c"
 }
