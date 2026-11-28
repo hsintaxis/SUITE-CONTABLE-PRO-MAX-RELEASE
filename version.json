@@ -1,9 +1,9 @@
 {
   "schema": 1,
   "product_code": "SUITE_CONTABLE_PRO_MAX",
-  "version": "2.0.46",
+  "version": "2.0.47",
   "release_date": "2026-11-27",
-  "notes": "Aprendizaje: World Office ahora aprende y predice; proveedores que siempre se causan igual salen completos; la historia de la empresa completa cuenta por pagar e IVA; se recupera lo aprendido antes del 3 de noviembre; si cambias algo aprendido, se te pregunta si queda la regla nueva o la anterior.",
-  "download_url": "https://github.com/hsintaxis/suite-contable-pro-max-release/releases/download/2.0.46/SuiteContableProMax_Portable_2.0.46.zip",
-  "sha256": "6254dd57cb9ea187d4622c40b17c08daab483212a8dd813ef04d807b0dc9dc8c"
+  "notes": "Cambio de año: mientras el año nuevo no tenga su propia confirmación, se propone lo aprendido el año anterior para que lo confirmes, y si lo cambias se te pregunta qué regla queda.",
+  "download_url": "https://github.com/hsintaxis/suite-contable-pro-max-release/releases/download/2.0.47/SuiteContableProMax_Portable_2.0.47.zip",
+  "sha256": "6a9858cf7bd922a9dea8f022cd3f9ce1313e0b7fde66adc27b919437fdc42e7e"
 }
